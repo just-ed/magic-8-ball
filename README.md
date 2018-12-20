@@ -1,4 +1,4 @@
-#  Program for Ruby
+#  Program "Magic 8 ball" for Ruby
 
 ## Description
 The Magic 8-Ball is used for fortune-telling or seeking advice.
