@@ -5,5 +5,4 @@ Just ask the question and run the program to take an advice like this:
 
 ```
 ruby magic_ball.rb
-
 ```
