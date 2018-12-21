@@ -41,8 +41,13 @@ answers = [
 # Выводим случайное приветствие из массива greetings
 puts greetings.sample
 
-# Выводим пустую строку, вызывая puts без параметров
-puts
+# Добавим паузу перед ответом для загадочности
+print "\nПожалуйста, подождите"
+
+15.times do
+  print "."
+  sleep 0.2
+end
 
 # Выводим случайный ответ из массива answers
-puts answers.sample
+puts "\n\n#{answers.sample}."
