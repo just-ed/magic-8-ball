@@ -1,10 +1,10 @@
-#  Program "Magic 8 ball" for Ruby
+#  Программа "Волшебный шар" на Ruby
 
-## Description
-The Magic 8-Ball is used for fortune-telling or seeking advice.
-Just ask the question and run the program to take an advice.
+## Описание
+Игрушка, шуточный способ предсказывать будущее. Задайте интересующий Вас вопрос и запустите программу.
 
-## Usage
+## Как пользоваться
+Наберите в терминале, находясь в корневой директории программы:
 ```
 ruby magic_ball.rb
 ```
